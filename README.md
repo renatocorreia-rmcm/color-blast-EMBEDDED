@@ -1,1 +1,3 @@
-# color-blast-WS2811-256
+# color blast in 256px WS2811
+
+ws2811 is a RGB addressable matrix
