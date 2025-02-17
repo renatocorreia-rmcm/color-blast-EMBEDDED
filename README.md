@@ -18,16 +18,6 @@ It is composed by a led strip curled in zig-zag
 The one used in this project is 16x16
 
 
-## ESP32 devkit v1 wroom
-
-microcontroler used
-
-
-## Power supply
-
-5V 3A common source
-
-
 ## FastLED lib
 
 FastLED takes an CRGB array where each item represents one led in strip and generate a PWM sended to matrix
@@ -38,5 +28,18 @@ FastLED takes an CRGB array where each item represents one led in strip and gene
 ![d2tsfem-b818794b-7bfa-4cb5-af47-89bb2340231b](https://github.com/user-attachments/assets/98edf9da-5d70-4a14-bfbe-3e3f60e163b2)
 
 All IO pins may be redefined in macros at start of code
+
+- Power supply
+    
+    5V 3A  
+
+- ESP32 devkit v1 wroom
+
+    powered by VIN
+
+- 10K potenciometer
+
+    powered by ESP 3.3V
+
 
 a paper sheet is placed above matrix to difuse light and form a better image
