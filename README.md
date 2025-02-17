@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/03716c18-6d35-4d87-8d95-e7bedabf1666
+
+
 # Color Blast in a 256px WS2811
 
 <br>
@@ -19,3 +22,4 @@
 <img src="" alt="protoboard setup">
 
 ## project running
+
