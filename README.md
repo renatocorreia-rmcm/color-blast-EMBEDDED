@@ -25,8 +25,6 @@ FastLED takes an CRGB array where each item represents one led in strip and gene
 
 ## Circuit setup
 
-![d2tsfem-b818794b-7bfa-4cb5-af47-89bb2340231b](https://github.com/user-attachments/assets/98edf9da-5d70-4a14-bfbe-3e3f60e163b2)
-
 All IO pins may be redefined in macros at start of code
 
 - Power supply
