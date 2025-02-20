@@ -1,4 +1,4 @@
-# Color Blast in a 256px WS2811
+# Color Blast in a 256px WS2812
 
 https://github.com/user-attachments/assets/03716c18-6d35-4d87-8d95-e7bedabf1666
 
@@ -26,6 +26,8 @@ FastLED takes an CRGB array where each item represents one led in strip and gene
 ## Circuit setup
 
 All IO pins may be redefined in macros at start of code
+
+- WS2812
 
 - Power supply
     
