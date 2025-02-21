@@ -28,18 +28,10 @@ FastLED takes an CRGB array where each item represents one led in strip and gene
 All IO pins may be redefined in macros at start of code
 
 - WS2812
-
-- Power supply
-    
+- Power supply  
     5V 3A  
-
-- ESP32 devkit v1 wroom
-
-    powered by VIN
-
+- ESP32 devkit v1  
 - 10K potenciometer
-
-    powered by ESP 3.3V
 
 
 a paper sheet is placed above matrix to difuse light and form a better image
